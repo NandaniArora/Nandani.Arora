@@ -1,0 +1,6 @@
+# 📊 Projects {#projects}
+
+## Exploratory Data Analysis (EDA) in Tableau
+- Tools Used: Tableau, Excel  
+- Conducted time-series forecasting and consumer segmentation analysis on a retail sales dataset.  
+- Produced ten interactive dashboards that showcased important performance patterns.

@@ -1,0 +1,28 @@
+# 🛠 Skills & Certifications {#skills--certifications}
+
+**Technical Skills:**  
+
+
+<div style="line-height: 2;">
+  <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+    <li>Microsoft Office <img src="icons8-microsoft-office-48.png" width="40px" style="vertical-align: middle; margin-left: 10px;" /></li>
+    <li>Tableau <img src="icons8-tableau-software-48.png" width="40px" style="vertical-align: middle; margin-left: 10px;" /></li>
+    <li>SQL <img src="icons8-sql-48.png" width="40px" style="vertical-align: middle; margin-left: 10px;" /></li>
+    <li>R Programming <img src="icons8-r-project-48.png" width="40px" style="vertical-align: middle; margin-left: 10px;" /></li>
+    <li>Power BI <img src="icons8-power-bi-48.png" width="40px" style="vertical-align: middle; margin-left: 10px;" /></li>
+  </ul>
+</div>
+
+**Soft Skills:**  
+-  Communication & Teamwork  
+-  Team Collaboration   
+-  Strategic Thinking  
+-  Time Management  
+-  Customer Service  
+
+
+**Certifications:**  
+-  Office Automation  
+-  Computer Accounting  
+-  Data Analyst  
+-  Certified Digital Marketing Associate  

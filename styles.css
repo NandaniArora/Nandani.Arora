@@ -1,0 +1,34 @@
+/* styles.css */
+
+body {
+  background-color: #f8f8f8; /* Off-white background */
+  color: #333333; /* Dark gray text */
+}
+
+.navbar {
+  background-color: #000000 !important; /* Black navbar background */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  border-bottom: 1px solid #222;
+}
+
+.navbar a {
+  color: white !important; /* White text on navbar */
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #00c6ff !important; /* Bright blue hover */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222; /* Dark headings */
+}
+
+a {
+  color: #007acc; /* Blue links */
+}
+
+a:hover {
+  color: #ff9900; /* Orange hover */
+}
