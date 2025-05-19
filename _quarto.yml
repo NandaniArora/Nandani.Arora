@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Nandani Arora"
+  navbar:
+    left:
+      - text: About Me
+        href: about.qmd
+      - text: Education
+        href: Education.qmd
+      - text: Professional Experience
+        href: Professional Experience.qmd
+      - text: Skills & Certifications
+        href: Skills & Certifications.qmd
+      - text: Projects
+        href: Projects.qmd
+      - text: Contact
+        href: Contact.qmd
+      - text: Leadership & Community Service
+        href: Leadership.qmd
+  
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+
