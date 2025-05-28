@@ -7,19 +7,19 @@ website:
   navbar:
     left:
       - text: About Me
-        href: about.html
+        href: about.qmd
       - text: Education
-        href: Education.html
+        href: Education.qmd
       - text: Professional Experience
-        href: Professional Experience.html
+        href: Professional Experience.qmd
       - text: Skills & Certifications
-        href: Skills & Certifications.html
+        href: Skills & Certifications.qmd
       - text: Projects
-        href: Projects.html
+        href: Projects.qmd
       - text: Contact
-        href: Contact.html
+        href: Contact.qmd
       - text: Leadership & Community Service
-        href: Leadership.html
+        href: Leadership.qmd
   
 
 format:
